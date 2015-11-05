@@ -5,11 +5,11 @@ The project using a mvc template ,and clickOne to install NUpackages that it nee
 Version 0.1.0
 Features to make
 
-Students Register Module
-Students parents Module
-Social Work Module
-Waiting List Module
-Statics Module
+1.-Students Register Module
+2.-Students parents Module
+3.-Social Work Module
+4.-Waiting List Module
+5.-Statics Module
 
 Features Ready 
 --
