@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invsys.Software.Web.KinderSF", "Invsys.Software.Web.KinderSF\Invsys.Software.Web.KinderSF.csproj", "{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invsys.Software.Web.KinderSF.Logic", "Invsys.Software.Web.KinderSF.Logic\Invsys.Software.Web.KinderSF.Logic.csproj", "{9AEF09F0-55F2-423F-9AD6-F11DFDFF059F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invsys.Software.Web.KinderSF.Data", "Invsys.Software.Web.KinderSF.Data\Invsys.Software.Web.KinderSF.Data.csproj", "{0C993ED9-DCCF-4665-9A4E-A069F1A77C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invsys.Software.Web.KinderSF.Entities", "Invsys.Software.Web.KinderSF.Entities\Invsys.Software.Web.KinderSF.Entities.csproj", "{600524E2-CAFC-45F6-A60A-DF78A1E75514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invsys.Software.Web.KinderSF.WS", "Invsys.Software.Web.KinderSF.WS\Invsys.Software.Web.KinderSF.WS.csproj", "{CA6B2E6F-A223-42ED-86F0-662ABFCC4032}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEF09F0-55F2-423F-9AD6-F11DFDFF059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEF09F0-55F2-423F-9AD6-F11DFDFF059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEF09F0-55F2-423F-9AD6-F11DFDFF059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEF09F0-55F2-423F-9AD6-F11DFDFF059F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C993ED9-DCCF-4665-9A4E-A069F1A77C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C993ED9-DCCF-4665-9A4E-A069F1A77C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C993ED9-DCCF-4665-9A4E-A069F1A77C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C993ED9-DCCF-4665-9A4E-A069F1A77C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600524E2-CAFC-45F6-A60A-DF78A1E75514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600524E2-CAFC-45F6-A60A-DF78A1E75514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600524E2-CAFC-45F6-A60A-DF78A1E75514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600524E2-CAFC-45F6-A60A-DF78A1E75514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6B2E6F-A223-42ED-86F0-662ABFCC4032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6B2E6F-A223-42ED-86F0-662ABFCC4032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6B2E6F-A223-42ED-86F0-662ABFCC4032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6B2E6F-A223-42ED-86F0-662ABFCC4032}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
